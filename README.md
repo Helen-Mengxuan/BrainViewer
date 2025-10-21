@@ -13,6 +13,7 @@ Quality control for skull-stripped fieldmap magnitude images.
 <img width="1191" height="522" alt="Screen Shot 2025-10-10 at 11 03 21 PM" src="https://github.com/user-attachments/assets/3b5df404-1bf9-45fc-92b9-3a7e798faa93" />
 
 <br>
+
 How to use:
 1. Use the bet command with the -o option in FSL to generate the overlay.nii.gz images.
 2. Place all overlay images (with filenames containing each subject’s ID) that require skull-stripping inspection into the same folder. Replace “path/to/folder” with the actual path to this folder.
