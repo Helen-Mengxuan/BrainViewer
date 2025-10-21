@@ -11,7 +11,7 @@ Quality control for skull-stripped anatomical T1 images.
 Quality control for skull-stripped fieldmap magnitude images. 
 <br>
 <img width="1191" height="522" alt="Screen Shot 2025-10-10 at 11 03 21 PM" src="https://github.com/user-attachments/assets/3b5df404-1bf9-45fc-92b9-3a7e798faa93" />
-
+<br>
 <br>
 
 How to use:
